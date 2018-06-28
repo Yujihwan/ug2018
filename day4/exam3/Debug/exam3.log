@@ -1,0 +1,2 @@
+﻿  exam3.cpp
+c:\users\user\desktop\work\ug2018\day4\exam3\exam3.cpp(20): error C4700: 초기화되지 않은 'nTot' 지역 변수를 사용했습니다.
