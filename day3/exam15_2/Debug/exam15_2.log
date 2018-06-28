@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  exam15_2.cpp
+c:\users\user\desktop\work\ug2018\day2\day3\exam15_2\exam15_2.cpp(9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '*'이(가) 있습니다.
+  exam15_2.vcxproj -> C:\Users\USER\Desktop\WORK\ug2018\day2\day3\Debug\exam15_2.exe

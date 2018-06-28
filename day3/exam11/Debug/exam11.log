@@ -1,0 +1,3 @@
+﻿  exam11.cpp
+c:\users\user\desktop\work\ug2018\day3\exam11\exam11.cpp(47): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  exam11.vcxproj -> C:\Users\USER\Desktop\WORK\ug2018\day3\Debug\exam11.exe
