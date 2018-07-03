@@ -1,0 +1,3 @@
+﻿  exam1.cpp
+c:\users\user\desktop\work\yj2018\day7\exam1\exam1.cpp(19): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
